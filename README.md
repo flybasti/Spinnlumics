@@ -1,7 +1,7 @@
 Herzlich willkommen bei Spinnlumics den ersten leuchtende Inline Spinner für deine Spoon Rute.
 
 
-![Spinnlumics](https://github.com/flybasti/Spinnlumics/blob/main/434872341_3580948472219750_7928283311500991661_n.jpg)
+![Spinnlumics](https://github.com/flybasti/Spinnlumics/blob/main/spinner.jpg)
 ![Spinnlumics](https://github.com/flybasti/Spinnlumics/blob/main/light.jpg)
 
 
